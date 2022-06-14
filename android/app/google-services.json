@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439403588318",
+    "project_id": "d2-network",
+    "storage_bucket": "d2-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439403588318:android:c5fa56a66ab1e82b3e304f",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439403588318-7fj2qp0jpgl21lr3b5k4l9iak8h87rrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBro0GGJpxp-TDZqqsMsA-2DIxiu63Q148"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439403588318-7fj2qp0jpgl21lr3b5k4l9iak8h87rrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
